@@ -1,0 +1,9 @@
+{
+  "name": "pluginjniexample",
+  "displayName": "PluginJNIExample",
+  "minGameVersion": "145",
+  "version": "1.0.0",
+  "author": "kowkodivka",
+  "description": "...",
+  "main": "ru.kowkodivka.mindustry.Main"
+}
